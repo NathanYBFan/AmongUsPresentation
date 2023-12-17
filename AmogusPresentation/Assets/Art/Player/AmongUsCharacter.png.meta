@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: de3af4fa5aae08d43a5d3317649a78ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmongUsCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1172
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851231d86923eed49ac4ae5c12371be0
+      internalID: 422763282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmongUsCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81314b1d3c41e4baf840017fee4a19
+      internalID: -649930051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmongUsCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1de43a9a7c4474782778441461d407
+      internalID: 29061285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmongUsCharacter_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5351de73849f80b4a8ade26ef61b21de
+      internalID: 2096562828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmongUsCharacter_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef84764e7c46a9439f18249ab69bd43
+      internalID: 1092040196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmongUsCharacter_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04eb8fc869d8f941bd903d483fe4306
+      internalID: 2010899130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AmongUsCharacter_47: 1859468036
+      AmongUsCharacter_39: 159726235
+      AmongUsCharacter_49: 683521325
+      AmongUsCharacter_16: 2082135291
+      AmongUsCharacter_20: 798595379
+      AmongUsCharacter_50: 1420630498
+      AmongUsCharacter_52: 492350151
+      AmongUsCharacter_22: -357058281
+      AmongUsCharacter_33: -196367603
+      AmongUsCharacter_48: -180571761
+      AmongUsCharacter_26: 896709290
+      AmongUsCharacter_0: 422763282
+      AmongUsCharacter_34: -570717710
+      AmongUsCharacter_24: -452392664
+      AmongUsCharacter_45: 1240083238
+      AmongUsCharacter_3: -256585441
+      AmongUsCharacter_25: 4606581
+      AmongUsCharacter_37: -895925441
+      AmongUsCharacter_51: 1143236117
+      AmongUsCharacter_35: 2010899130
+      AmongUsCharacter_27: -1725297030
+      AmongUsCharacter_21: 2096562828
+      AmongUsCharacter_12: -514951491
+      AmongUsCharacter_28: 1092040196
+      AmongUsCharacter_19: -319146340
+      AmongUsCharacter_10: -1625013185
+      AmongUsCharacter_17: -490943799
+      AmongUsCharacter_30: 730062721
+      AmongUsCharacter_8: -1115419496
+      AmongUsCharacter_2: 306774454
+      AmongUsCharacter_14: 29061285
+      AmongUsCharacter_32: 1901487012
+      AmongUsCharacter_36: -106925397
+      AmongUsCharacter_31: -910534571
+      AmongUsCharacter_13: 998017726
+      AmongUsCharacter_7: -649930051
+      AmongUsCharacter_23: 1267971104
+      AmongUsCharacter_46: -1249402491
+      AmongUsCharacter_15: 1651659322
+      AmongUsCharacter_4: -9736931
+      AmongUsCharacter_9: 1096807888
+      AmongUsCharacter_42: 998010833
+      AmongUsCharacter_53: -2031487632
+      AmongUsCharacter_6: -273399499
+      AmongUsCharacter_41: -773113841
+      AmongUsCharacter_54: 1770321973
+      AmongUsCharacter_43: -1438145431
+      AmongUsCharacter_55: -197170894
+      AmongUsCharacter_44: 55712229
+      AmongUsCharacter_56: -675085038
+      AmongUsCharacter_1: 1718478978
+      AmongUsCharacter_38: -1466266789
+      AmongUsCharacter_5: -1049628483
+      AmongUsCharacter_11: 1772046083
+      AmongUsCharacter_18: -816392760
+      AmongUsCharacter_40: 1225320014
+      AmongUsCharacter_29: -2082165888
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

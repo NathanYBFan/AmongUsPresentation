@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: baa96df4e595b844ba15fbd1ac9732a9
+  - enabled: 1
+    path: Assets/Scenes/Slides/Intro.unity
+    guid: e7486c2c27e6c554db317dc79a4c388a
+  - enabled: 1
+    path: Assets/Scenes/The Skeld.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Slides/Mechanics.unity
+    guid: 5840102cfe4703940866c5a8f28d1b2d
+  - enabled: 1
+    path: Assets/Scenes/Transitions/Kill.unity
+    guid: d8f84c3e4e387974aac256c820aaf1df
+  - enabled: 1
+    path: Assets/Scenes/Transitions/ReportBody.unity
+    guid: 271752158f34b8743a7684d494097051
+  - enabled: 1
+    path: Assets/Scenes/Slides/Levels & world.unity
+    guid: 417e194e3768eb542a88c0f054b01d3b
+  - enabled: 1
+    path: Assets/Scenes/Transitions/Voting.unity
+    guid: 699ff28d1a117e0408e5fb0c6d11816e
+  - enabled: 1
+    path: Assets/Scenes/Slides/Social Aspects.unity
+    guid: 6fccd7039e7c82e4ebe1674a0e9b3ad5
+  - enabled: 1
+    path: Assets/Scenes/Slides/Social Aspects v2.unity
+    guid: e7208a1399b3f4e418709e70df4883d8
+  - enabled: 1
+    path: Assets/Scenes/Transitions/EjectAmogus.unity
+    guid: 048f1545a69dc0142b4428bf7cec9e7a
+  - enabled: 1
+    path: Assets/Scenes/Transitions/ImpostersWin.unity
+    guid: bea910a531229254c99b71a0360ca312
+  m_configObjects: {}
